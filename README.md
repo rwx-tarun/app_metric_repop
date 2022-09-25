@@ -10,10 +10,8 @@ Flutter Android app to show apps usage duration
   syncfusion_flutter_charts: ^20.2.50
   device_apps: ^2.2.0
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/78414267/192166947-5d751c84-3564-4933-943b-e5b8507e877f.jpg)" width="50%" height="50%">
-![Screenshot_2022-09-26-00-37-53-93_9ce120c2000c93df3f7769fe233e01b7](https://user-images.githubusercontent.com/78414267/192166947-5d751c84-3564-4933-943b-e5b8507e877f.jpg| width=100)
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![Screenshot_2022-09-26-00-37-53-93_9ce120c2000c93df3f7769fe233e01b7](https://user-images.githubusercontent.com/78414267/192166947-5d751c84-3564-4933-943b-e5b8507e877f.jpg)
 
 
 
