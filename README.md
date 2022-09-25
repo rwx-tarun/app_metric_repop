@@ -9,12 +9,9 @@ Flutter Android app to show apps usage duration
   syncfusion_flutter_calendar: ^20.2.50
   syncfusion_flutter_charts: ^20.2.50
   device_apps: ^2.2.0
-![test image size]<img src="[https://fullpath/assets/yourgif.gif](https://user-images.githubusercontent.com/78414267/192166947-5d751c84-3564-4933-943b-e5b8507e877f.jpg)" width="400" height="790">
 
 
-<img src="[https://camo.githubusercontent.com/...](https://user-images.githubusercontent.com/78414267/192166947-5d751c84-3564-4933-943b-e5b8507e877f.jpg)" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-
-<img src="[https://camo.githubusercontent.com/...](https://user-images.githubusercontent.com/78414267/192166947-5d751c84-3564-4933-943b-e5b8507e877f.jpg)"  width="200" height="400" />
+<img width=”250" height=”400" src=”[https://raw.githubusercontent.com/asifsha/react-native-api-integration/master/demo/demoartist.gif](https://user-images.githubusercontent.com/78414267/192166947-5d751c84-3564-4933-943b-e5b8507e877f.jpg)" />
 
 
 
