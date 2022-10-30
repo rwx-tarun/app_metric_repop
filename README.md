@@ -9,7 +9,9 @@ Flutter Android app to show apps usage duration
   app_usage: ^2.0.0
   
   syncfusion_flutter_calendar: ^20.2.50
+  
   syncfusion_flutter_charts: ^20.2.50
+  
   device_apps: ^2.2.0
 
 <img src="https://user-images.githubusercontent.com/78414267/192166947-5d751c84-3564-4933-943b-e5b8507e877f.jpg" width="250">
